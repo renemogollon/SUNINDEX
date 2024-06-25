@@ -322,5 +322,5 @@ prediction_final.to_csv('Sun_Risk_predition.csv',index=False)
 
 ## References
 [1]	R. Mogollón, M. Mendoza, L. León, D. Rudell, C. A. Torres, Excluding sunscald from long-term storage of ‘Granny Smith’ apples, Postharvest Biology and Technology, 216, 2024, doi: 10.1016/j.postharvbio.2024.113044 \
-[2]	O. Hernandez, C. A. Torres, M. A. Moya-León, M. C. Opazo, and I. Razmilic, Roles of the ascorbate-glutathione cycle, pigments and phenolics in postharvest ‘sunscald’ development on ‘granny smith’ apples (malus domestica borkh.), Postharvest Biol Technol, vol. 87, pp. 79–87, 2014, doi: 10.1016/j.postharvbio.2013.08.003 
+[2]	O. Hernandez, C. A. Torres, M. A. Moya-León, M. C. Opazo, and I. Razmilic, Roles of the ascorbate-glutathione cycle, pigments and phenolics in postharvest ‘sunscald’ development on ‘granny smith’ apples (Malus domestica Borkh.), Postharvest Biol Technol, vol. 87, pp. 79–87, 2014, doi: 10.1016/j.postharvbio.2013.08.003 
 
